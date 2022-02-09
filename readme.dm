@@ -1,1 +1,1 @@
-#Simple factorial function
+#Simple factorial function!
